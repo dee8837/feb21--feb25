@@ -1,0 +1,48 @@
+.prospects {
+    cursor:pointer;
+    
+
+    
+}
+.prospects:hover {
+    color:rgb(71, 29, 185);
+    text-decoration: dotted;
+    border: 2px solid black;
+    
+    
+}
+.courses-content {
+    display: none;
+    cursor: pointer;
+}
+.academic-prospects:hover > .courses-content {
+
+    display:initial;
+}
+.admin1 {
+    cursor:pointer;
+    
+}
+.admin1:hover {
+    color: rgb(177, 31, 31);
+    text-decoration:none;
+
+}
+.E-learning {
+    display:none;
+    cursor:pointer;
+    color: brown;
+    position: absolute;
+    left:140px;
+    top:100px
+
+
+
+}
+.courses-content:hover > .E-learning {
+    display:initial;
+}
+
+
+
+
