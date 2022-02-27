@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(140, 125, 153);
+    margin-top: 50px;
+    text-align: center;
+    text-shadow: 20px;
+    color:white
+    
+}
+.score {
+    position: absolute;
+    left:350px;
+       
+    
+}
+.game{
+    position:absolute;
+    right:350px
+}
+.stone {
+    position:absolute;
+    left: -180px;
+
+    
+}
+.paper{
+    position:absolute;
+    left: 170px;
+}
+.scisor {
+    position:absolute;
+    left: 330px;
+
+
+}
+
+
+
+    
+
