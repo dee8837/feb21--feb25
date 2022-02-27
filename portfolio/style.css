@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(248, 245, 245);
+    display: flex;
+    align-items: center;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav .name {
+   margin-left: 20px;
+}
+nav .nav-right{
+    display: flex;
+    justify-content: flex-end;
+    width: 135b
+    .0px;
+}
+nav span{
+    margin: 15px 40px 10px 15px;
+}
+
+nav .social img{
+    height: 18px;
+    width: 30px;
+    margin: 15px 10px 10px 0;
+}
